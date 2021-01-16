@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760047265898",
+    "firebase_url": "https://admintocientpushnotification.firebaseio.com",
+    "project_id": "admintocientpushnotification",
+    "storage_bucket": "admintocientpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760047265898:android:64b5cb6b9cdb32a2b90213",
+        "android_client_info": {
+          "package_name": "com.example.admintocientpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760047265898-scqra197ujbf0057g275id3seih5cq64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admintocientpushnotification",
+            "certificate_hash": "60ba64aa305ea4165b37462c54e02cb04f4e3250"
+          }
+        },
+        {
+          "client_id": "760047265898-1gvdmcvg1fvq5pghqfmunfs4qr04s592.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrAax-7t_eTbXlCPWpPjc30qPiYTCoHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760047265898-1gvdmcvg1fvq5pghqfmunfs4qr04s592.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
